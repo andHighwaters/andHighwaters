@@ -1,4 +1,4 @@
-# Bullfighter Rules 0.1.0
+# Bullfighter Rules 0.1.1
 1. Never leave the house without a camera
 2. Never leave the house without making your bed
 3. Never talk directly into the camera
@@ -74,18 +74,33 @@
 74. Use your life all the way up
 
 Sources:
+
 https://kottke.org/15/01/24-pieces-of-life-advice-from-werner-herzog
+
 https://www.reddit.com/r/movies/comments/7kplcq/stanley_kubricks_basic_training_rules_from_s_is/
+
 https://www.youtube.com/watch?v=49p1JVLHUos
+
 https://www.youtube.com/watch?v=-Evrm03Y5hI
+
 https://www.quora.com/What-are-the-most-valuable-things-everyone-should-know
+
 https://twitter.com/naval/status/1002103360646823936
+
 https://genius.com/The-notorious-big-ten-crack-commandments-lyrics
+
 https://www.biblegateway.com/passage/?search=EXODUS%2020&version=NIV
+
 https://biblioklept.org/2022/09/13/what-is-to-be-done-jean-luc-godard/
+
 https://www.readingdesign.org/250-things
+
 https://www.braundesign.es/el-funcionalismo/
+
 http://www.dogme95.dk/the-vow-of-chastity/
+
 https://www.moma.org/collection/works/127947
+
 https://www.woodyguthrie.org/newyearsrulins.htm
+
 https://en.wikipedia.org/wiki/Competent_man
